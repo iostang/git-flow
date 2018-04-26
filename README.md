@@ -172,12 +172,6 @@
         git commit -am "fix： balabalabalaxxxxxxxxxx"
 
 
-##问题
-
-**feature是否应该细化到一个个小功能？**
-**feature与feature之间有耦合怎么处理？**
-
-
 ##参考
 
 [GitFlow with SourceTree](https://www.jianshu.com/p/8a3988057d0f)
